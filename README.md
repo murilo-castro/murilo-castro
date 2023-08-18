@@ -3,7 +3,7 @@
 
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murilo-castro&show_icons=true&locale=en" alt="murilo-castro" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murilo-castro&" alt="murilo-castro" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murilo-castro&" alt="murilo-castro" width="500" />
 </p>
 
 <h3 align="left">Social:</h3>
